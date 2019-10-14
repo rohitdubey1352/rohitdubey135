@@ -1,0 +1,35 @@
+<!DOCTYPE html >
+<html>
+<head>
+     <title> PHOTO SLIDER</title>
+
+</head>
+<body>
+<div class="w3-content" style="max-width:1200px">
+  <img class="mySlides" src="https://images.app.goo.gl/9j9BfKFYiqqk2Nz97"
+style="width:100%">
+<img class="myslides" src="https://images.app.goo.gl/tVqaAM6bjkh82UYH8"
+style="width:100%">
+  <img class="mySlides" src="
+
+https://images.app.goo.gl/ssNHjX"
+style="width:100%">
+  <div class="w3-row-padding w3-section">
+    <div class="w3-col s4">
+      <img class="demo w3-opacity"
+src="img_nature_wide.jpg"
+      style="width:100%" onclick="currentDiv(1)">
+    </div>
+    <div class="w3-col s4">
+      <img class="demo w3-opacity"
+src="img_snow_wide.jpg"
+      style="width:100%;display:none"
+onclick="currentDiv(2)">
+    </div>
+    <div class="w3-col s4">
+      <img class="demo w3-opacity"
+src="img_mountains_wide.jpg"
+      style="width:100%;display:none"
+onclick="currentDiv(3)">
+<body/>
+</html>
